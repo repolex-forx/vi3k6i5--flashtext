@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vi3k6i5/flashtext/commit/f49274459bc9879789c6e6bb64bf05af755de0b3",
       "git:hexsha": "f49274459bc9879789c6e6bb64bf05af755de0b3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:28:17.473531+00:00"
     }
   ]
 }
